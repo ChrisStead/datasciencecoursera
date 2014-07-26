@@ -1,4 +1,5 @@
 datasciencecoursera
 ===================
-Chris Stead
-Denver, Colorado
+## Data Science Toolbox
+* Chris Stead
+* Denver, Colorado
