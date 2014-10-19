@@ -1,6 +1,6 @@
 ## This is a markdown file
 
-### John Hopkins Data Science Specialization Rocks!
+### John Hopkins Data Science Specialization Rocks the Rockies!
 
 * The Data Science Toolbox
 * R Programming
